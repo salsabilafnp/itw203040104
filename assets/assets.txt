@@ -1,0 +1,28 @@
+Sumber assets:
+
+Fonts:
+https://fonts.google.com/specimen/Poppins?query=pop&sidebar.open=true&selection.family=Poppins
+
+Image:
+a1.jpg [https://unsplash.com/photos/4ojhpgKpS68]
+a2.jpg [https://unsplash.com/photos/aren8nutd1Q]
+a3.jpg [https://unsplash.com/photos/rah5oKpjMSY]
+a4.jpg [https://unsplash.com/photos/yFV39g6AZ5o]
+a5.jpg [https://unsplash.com/photos/_TPTXZd9mOo]
+c1.jpg [https://unsplash.com/photos/2d4lAQAlbDA]
+c2.jpg [https://unsplash.com/photos/9rYfG8sWRVo]
+c3.jpg [https://unsplash.com/photos/FV3GConVSss]
+i1.jpg [https://unsplash.com/photos/_-JR5TxKNSo]
+i2.jpg [https://unsplash.com/photos/mr0Dp231IEw]
+i3.jpg [https://unsplash.com/photos/XL6gfkLmkOw]
+i4.jpg [https://unsplash.com/photos/d-zkUcfJbWw]
+i5.jpg [https://unsplash.com/photos/uJd-18zz64I]
+o1.jpg [https://unsplash.com/photos/AQdyCfXWxB4]
+o2.jpg [https://unsplash.com/photos/JdcJn85xD2k]
+o3.jpg [https://unsplash.com/photos/QBpZGqEMsKg]
+o4.jpg [https://unsplash.com/photos/dN7085rORJo]
+o5.jpg [https://unsplash.com/photos/xQWLtlQb7L0]
+gojek.svg [https://gojek.com]
+zenius.png [https://zenius.net]
+tokopedia.svg [https://tokopedia.com]
+google.png [https://google.com]
